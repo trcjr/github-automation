@@ -1,0 +1,160 @@
+2024-10-29 15:34:57,086 - INFO - Hi! I am GitHub Follower Bot.
+2024-10-29 15:34:57,086 - INFO - Letting you follow all your followers!
+2024-10-29 15:34:57,086 - INFO - Starting to fetch your follower lists...
+
+2024-10-29 15:34:57,086 - INFO - Loaded 0 already followed users.
+2024-10-29 15:34:57,087 - INFO - Processing all followers without resume.
+2024-10-29 15:34:57,087 - INFO - Starting from page: 1
+2024-10-29 15:34:57,087 - INFO - Current follower counter: 0
+2024-10-29 15:34:57,163 - INFO - Rate Limit - Remaining: 4990, Reset at: 2024-10-29 16:24:19
+2024-10-29 15:34:57,164 - INFO - Fetching followers from: https://api.github.com/users/trcjr/followers?per_page=100&page=1
+2024-10-29 15:34:57,251 - DEBUG - Number of followers fetched: 28
+2024-10-29 15:34:57,251 - INFO - Fetched 28 followers on page 1.
+2024-10-29 15:34:57,251 - INFO - Sleeping for 5 seconds before following users.
+2024-10-29 15:35:02,256 - INFO - Attempting to follow user: gugod
+2024-10-29 15:35:02,367 - INFO - Successfully followed user: gugod
+2024-10-29 15:35:02,369 - DEBUG - Appended user gugod to followers.txt.
+2024-10-29 15:35:02,369 - INFO - Follower counter updated: 1
+2024-10-29 15:35:02,369 - INFO - Sleeping for 11.25 seconds before the next follow.
+2024-10-29 15:35:13,626 - INFO - Attempting to follow user: zdk
+2024-10-29 15:35:13,740 - INFO - Successfully followed user: zdk
+2024-10-29 15:35:13,742 - DEBUG - Appended user zdk to followers.txt.
+2024-10-29 15:35:13,742 - INFO - Follower counter updated: 2
+2024-10-29 15:35:13,742 - INFO - Sleeping for 13.09 seconds before the next follow.
+2024-10-29 15:35:26,842 - INFO - Attempting to follow user: c9s
+2024-10-29 15:35:26,950 - INFO - Successfully followed user: c9s
+2024-10-29 15:35:26,951 - DEBUG - Appended user c9s to followers.txt.
+2024-10-29 15:35:26,951 - INFO - Follower counter updated: 3
+2024-10-29 15:35:26,951 - INFO - Sleeping for 14.92 seconds before the next follow.
+2024-10-29 15:35:41,884 - INFO - Attempting to follow user: tempire
+2024-10-29 15:35:41,991 - INFO - Successfully followed user: tempire
+2024-10-29 15:35:41,992 - DEBUG - Appended user tempire to followers.txt.
+2024-10-29 15:35:41,992 - INFO - Follower counter updated: 4
+2024-10-29 15:35:41,992 - INFO - Sleeping for 13.89 seconds before the next follow.
+2024-10-29 15:35:55,895 - INFO - Attempting to follow user: jpkboca
+2024-10-29 15:35:55,993 - INFO - Successfully followed user: jpkboca
+2024-10-29 15:35:55,994 - DEBUG - Appended user jpkboca to followers.txt.
+2024-10-29 15:35:55,995 - INFO - Follower counter updated: 5
+2024-10-29 15:35:55,995 - INFO - Sleeping for 10.51 seconds before the next follow.
+2024-10-29 15:36:06,520 - INFO - Attempting to follow user: lfolsom
+2024-10-29 15:36:06,632 - INFO - Successfully followed user: lfolsom
+2024-10-29 15:36:06,633 - DEBUG - Appended user lfolsom to followers.txt.
+2024-10-29 15:36:06,634 - INFO - Follower counter updated: 6
+2024-10-29 15:36:06,634 - INFO - Sleeping for 14.26 seconds before the next follow.
+2024-10-29 15:36:20,913 - INFO - Attempting to follow user: delgreco
+2024-10-29 15:36:21,005 - INFO - Successfully followed user: delgreco
+2024-10-29 15:36:21,006 - DEBUG - Appended user delgreco to followers.txt.
+2024-10-29 15:36:21,006 - INFO - Follower counter updated: 7
+2024-10-29 15:36:21,006 - INFO - Sleeping for 13.12 seconds before the next follow.
+2024-10-29 15:36:34,145 - INFO - Attempting to follow user: winfinit
+2024-10-29 15:36:34,241 - INFO - Successfully followed user: winfinit
+2024-10-29 15:36:34,242 - DEBUG - Appended user winfinit to followers.txt.
+2024-10-29 15:36:34,242 - INFO - Follower counter updated: 8
+2024-10-29 15:36:34,243 - INFO - Sleeping for 13.34 seconds before the next follow.
+2024-10-29 15:36:47,594 - INFO - Attempting to follow user: skylamer
+2024-10-29 15:36:47,696 - INFO - Successfully followed user: skylamer
+2024-10-29 15:36:47,697 - DEBUG - Appended user skylamer to followers.txt.
+2024-10-29 15:36:47,697 - INFO - Follower counter updated: 9
+2024-10-29 15:36:47,697 - INFO - Sleeping for 13.11 seconds before the next follow.
+2024-10-29 15:37:00,819 - INFO - Attempting to follow user: keldenar
+2024-10-29 15:37:00,907 - INFO - Successfully followed user: keldenar
+2024-10-29 15:37:00,908 - DEBUG - Appended user keldenar to followers.txt.
+2024-10-29 15:37:00,908 - INFO - Follower counter updated: 10
+2024-10-29 15:37:00,909 - INFO - Sleeping for 11.34 seconds before the next follow.
+2024-10-29 15:37:12,255 - INFO - Attempting to follow user: JSansalone
+2024-10-29 15:37:12,394 - INFO - Successfully followed user: JSansalone
+2024-10-29 15:37:12,395 - DEBUG - Appended user JSansalone to followers.txt.
+2024-10-29 15:37:12,395 - INFO - Follower counter updated: 11
+2024-10-29 15:37:12,395 - INFO - Sleeping for 14.00 seconds before the next follow.
+2024-10-29 15:37:26,409 - INFO - Attempting to follow user: mishin
+2024-10-29 15:37:26,517 - INFO - Successfully followed user: mishin
+2024-10-29 15:37:26,518 - DEBUG - Appended user mishin to followers.txt.
+2024-10-29 15:37:26,518 - INFO - Follower counter updated: 12
+2024-10-29 15:37:26,518 - INFO - Sleeping for 14.74 seconds before the next follow.
+2024-10-29 15:37:41,270 - INFO - Attempting to follow user: KevinHock
+2024-10-29 15:37:41,365 - INFO - Successfully followed user: KevinHock
+2024-10-29 15:37:41,366 - DEBUG - Appended user KevinHock to followers.txt.
+2024-10-29 15:37:41,366 - INFO - Follower counter updated: 13
+2024-10-29 15:37:41,366 - INFO - Sleeping for 11.23 seconds before the next follow.
+2024-10-29 15:37:52,600 - INFO - Attempting to follow user: jbasalone
+2024-10-29 15:37:52,688 - INFO - Successfully followed user: jbasalone
+2024-10-29 15:37:52,689 - DEBUG - Appended user jbasalone to followers.txt.
+2024-10-29 15:37:52,689 - INFO - Follower counter updated: 14
+2024-10-29 15:37:52,689 - INFO - Sleeping for 12.97 seconds before the next follow.
+2024-10-29 15:38:05,673 - INFO - Attempting to follow user: gabrielpconceicao
+2024-10-29 15:38:05,761 - INFO - Successfully followed user: gabrielpconceicao
+2024-10-29 15:38:05,763 - DEBUG - Appended user gabrielpconceicao to followers.txt.
+2024-10-29 15:38:05,763 - INFO - Follower counter updated: 15
+2024-10-29 15:38:05,763 - INFO - Sleeping for 12.29 seconds before the next follow.
+2024-10-29 15:38:18,066 - INFO - Attempting to follow user: angusshire
+2024-10-29 15:38:18,185 - INFO - Successfully followed user: angusshire
+2024-10-29 15:38:18,186 - DEBUG - Appended user angusshire to followers.txt.
+2024-10-29 15:38:18,187 - INFO - Follower counter updated: 16
+2024-10-29 15:38:18,187 - INFO - Sleeping for 10.00 seconds before the next follow.
+2024-10-29 15:38:28,200 - INFO - Attempting to follow user: shahradelahi
+2024-10-29 15:38:28,294 - INFO - Successfully followed user: shahradelahi
+2024-10-29 15:38:28,295 - DEBUG - Appended user shahradelahi to followers.txt.
+2024-10-29 15:38:28,295 - INFO - Follower counter updated: 17
+2024-10-29 15:38:28,295 - INFO - Sleeping for 14.13 seconds before the next follow.
+2024-10-29 15:38:42,440 - INFO - Attempting to follow user: Rafaelmdcarneiro
+2024-10-29 15:38:42,529 - INFO - Successfully followed user: Rafaelmdcarneiro
+2024-10-29 15:38:42,530 - DEBUG - Appended user Rafaelmdcarneiro to followers.txt.
+2024-10-29 15:38:42,530 - INFO - Follower counter updated: 18
+2024-10-29 15:38:42,530 - INFO - Sleeping for 13.08 seconds before the next follow.
+2024-10-29 15:38:55,622 - INFO - Attempting to follow user: LisaSmithFL
+2024-10-29 15:38:55,741 - INFO - Successfully followed user: LisaSmithFL
+2024-10-29 15:38:55,743 - DEBUG - Appended user LisaSmithFL to followers.txt.
+2024-10-29 15:38:55,743 - INFO - Follower counter updated: 19
+2024-10-29 15:38:55,743 - INFO - Sleeping for 13.55 seconds before the next follow.
+2024-10-29 15:39:09,305 - INFO - Attempting to follow user: standardgalactic
+2024-10-29 15:39:09,417 - INFO - Successfully followed user: standardgalactic
+2024-10-29 15:39:09,418 - DEBUG - Appended user standardgalactic to followers.txt.
+2024-10-29 15:39:09,418 - INFO - Follower counter updated: 20
+2024-10-29 15:39:09,418 - INFO - Sleeping for 13.55 seconds before the next follow.
+2024-10-29 15:39:22,983 - INFO - Attempting to follow user: bitcoin-api
+2024-10-29 15:39:23,086 - INFO - Successfully followed user: bitcoin-api
+2024-10-29 15:39:23,087 - DEBUG - Appended user bitcoin-api to followers.txt.
+2024-10-29 15:39:23,087 - INFO - Follower counter updated: 21
+2024-10-29 15:39:23,087 - INFO - Sleeping for 12.31 seconds before the next follow.
+2024-10-29 15:39:35,414 - INFO - Attempting to follow user: rwp0
+2024-10-29 15:39:35,521 - INFO - Successfully followed user: rwp0
+2024-10-29 15:39:35,522 - DEBUG - Appended user rwp0 to followers.txt.
+2024-10-29 15:39:35,522 - INFO - Follower counter updated: 22
+2024-10-29 15:39:35,522 - INFO - Sleeping for 11.80 seconds before the next follow.
+2024-10-29 15:39:47,324 - INFO - Attempting to follow user: OfficialCodeVoyage
+2024-10-29 15:39:47,429 - INFO - Successfully followed user: OfficialCodeVoyage
+2024-10-29 15:39:47,430 - DEBUG - Appended user OfficialCodeVoyage to followers.txt.
+2024-10-29 15:39:47,431 - INFO - Follower counter updated: 23
+2024-10-29 15:39:47,431 - INFO - Sleeping for 14.31 seconds before the next follow.
+2024-10-29 15:40:01,752 - INFO - Attempting to follow user: JohnMwendwa
+2024-10-29 15:40:01,942 - INFO - Successfully followed user: JohnMwendwa
+2024-10-29 15:40:01,944 - DEBUG - Appended user JohnMwendwa to followers.txt.
+2024-10-29 15:40:01,944 - INFO - Follower counter updated: 24
+2024-10-29 15:40:01,944 - INFO - Sleeping for 12.63 seconds before the next follow.
+2024-10-29 15:40:14,587 - INFO - Attempting to follow user: Danyal-Rana
+2024-10-29 15:40:14,730 - INFO - Successfully followed user: Danyal-Rana
+2024-10-29 15:40:14,731 - DEBUG - Appended user Danyal-Rana to followers.txt.
+2024-10-29 15:40:14,732 - INFO - Follower counter updated: 25
+2024-10-29 15:40:14,732 - INFO - Sleeping for 12.54 seconds before the next follow.
+2024-10-29 15:40:27,282 - INFO - Attempting to follow user: FaezehRahimian
+2024-10-29 15:40:27,372 - INFO - Successfully followed user: FaezehRahimian
+2024-10-29 15:40:27,374 - DEBUG - Appended user FaezehRahimian to followers.txt.
+2024-10-29 15:40:27,374 - INFO - Follower counter updated: 26
+2024-10-29 15:40:27,374 - INFO - Sleeping for 14.91 seconds before the next follow.
+2024-10-29 15:40:42,300 - INFO - Attempting to follow user: zeon-neon
+2024-10-29 15:40:42,397 - INFO - Successfully followed user: zeon-neon
+2024-10-29 15:40:42,398 - DEBUG - Appended user zeon-neon to followers.txt.
+2024-10-29 15:40:42,398 - INFO - Follower counter updated: 27
+2024-10-29 15:40:42,398 - INFO - Sleeping for 12.91 seconds before the next follow.
+2024-10-29 15:40:55,325 - INFO - Attempting to follow user: annar9919
+2024-10-29 15:40:55,435 - INFO - Successfully followed user: annar9919
+2024-10-29 15:40:55,437 - DEBUG - Appended user annar9919 to followers.txt.
+2024-10-29 15:40:55,437 - INFO - Follower counter updated: 28
+2024-10-29 15:40:55,437 - INFO - Sleeping for 10.64 seconds before the next follow.
+2024-10-29 15:41:06,167 - INFO - Rate Limit - Remaining: 4961, Reset at: 2024-10-29 16:24:19
+2024-10-29 15:41:06,168 - INFO - Fetching followers from: https://api.github.com/users/trcjr/followers?per_page=100&page=2
+2024-10-29 15:41:06,248 - DEBUG - Number of followers fetched: 0
+2024-10-29 15:41:06,248 - INFO - No more followers to process. Exiting.
+2024-10-29 15:41:06,248 - INFO - Follower counter updated: 28
+2024-10-29 15:41:06,248 - INFO - 
+Following users from your follower list is done! Total followers fetched: 28, Total followers followed: 28
