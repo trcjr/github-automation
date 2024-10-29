@@ -158,3 +158,61 @@
 2024-10-29 15:41:06,248 - INFO - Follower counter updated: 28
 2024-10-29 15:41:06,248 - INFO - 
 Following users from your follower list is done! Total followers fetched: 28, Total followers followed: 28
+2024-10-29 23:01:31,538 - INFO - Hi! I am GitHub Follower Bot.
+2024-10-29 23:01:31,538 - INFO - Letting you follow all your followers!
+2024-10-29 23:01:31,538 - INFO - Starting to fetch your follower lists...
+
+2024-10-29 23:01:31,538 - INFO - Loaded 28 already followed users.
+2024-10-29 23:01:31,539 - INFO - Processing all followers without resume.
+2024-10-29 23:01:31,539 - INFO - Starting from page: 1
+2024-10-29 23:01:31,539 - INFO - Current follower counter: 28
+2024-10-29 23:01:31,658 - INFO - Rate Limit - Remaining: 4985, Reset at: 2024-10-29 23:37:35
+2024-10-29 23:01:31,659 - INFO - Fetching followers from: https://api.github.com/users/trcjr/followers?per_page=100&page=1
+2024-10-29 23:01:31,783 - DEBUG - Number of followers fetched: 30
+2024-10-29 23:01:31,783 - INFO - Fetched 30 followers on page 1.
+2024-10-29 23:01:31,783 - INFO - Sleeping for 5 seconds before following users.
+2024-10-29 23:01:36,789 - DEBUG - Already followed user: gugod. Skipping.
+2024-10-29 23:01:36,789 - DEBUG - Already followed user: zdk. Skipping.
+2024-10-29 23:01:36,789 - DEBUG - Already followed user: c9s. Skipping.
+2024-10-29 23:01:36,789 - DEBUG - Already followed user: tempire. Skipping.
+2024-10-29 23:01:36,789 - DEBUG - Already followed user: jpkboca. Skipping.
+2024-10-29 23:01:36,789 - DEBUG - Already followed user: lfolsom. Skipping.
+2024-10-29 23:01:36,789 - DEBUG - Already followed user: delgreco. Skipping.
+2024-10-29 23:01:36,789 - DEBUG - Already followed user: winfinit. Skipping.
+2024-10-29 23:01:36,789 - DEBUG - Already followed user: skylamer. Skipping.
+2024-10-29 23:01:36,789 - DEBUG - Already followed user: keldenar. Skipping.
+2024-10-29 23:01:36,789 - DEBUG - Already followed user: JSansalone. Skipping.
+2024-10-29 23:01:36,789 - DEBUG - Already followed user: mishin. Skipping.
+2024-10-29 23:01:36,789 - DEBUG - Already followed user: KevinHock. Skipping.
+2024-10-29 23:01:36,789 - DEBUG - Already followed user: jbasalone. Skipping.
+2024-10-29 23:01:36,789 - DEBUG - Already followed user: gabrielpconceicao. Skipping.
+2024-10-29 23:01:36,790 - DEBUG - Already followed user: angusshire. Skipping.
+2024-10-29 23:01:36,790 - DEBUG - Already followed user: shahradelahi. Skipping.
+2024-10-29 23:01:36,790 - DEBUG - Already followed user: Rafaelmdcarneiro. Skipping.
+2024-10-29 23:01:36,790 - DEBUG - Already followed user: LisaSmithFL. Skipping.
+2024-10-29 23:01:36,790 - DEBUG - Already followed user: standardgalactic. Skipping.
+2024-10-29 23:01:36,790 - DEBUG - Already followed user: bitcoin-api. Skipping.
+2024-10-29 23:01:36,790 - DEBUG - Already followed user: rwp0. Skipping.
+2024-10-29 23:01:36,790 - DEBUG - Already followed user: OfficialCodeVoyage. Skipping.
+2024-10-29 23:01:36,790 - DEBUG - Already followed user: JohnMwendwa. Skipping.
+2024-10-29 23:01:36,790 - INFO - Attempting to follow user: Bear-Frost
+2024-10-29 23:01:36,981 - INFO - Successfully followed user: Bear-Frost
+2024-10-29 23:01:36,982 - DEBUG - Appended user Bear-Frost to followers.txt.
+2024-10-29 23:01:36,982 - INFO - Follower counter updated: 29
+2024-10-29 23:01:36,982 - INFO - Sleeping for 13.35 seconds before the next follow.
+2024-10-29 23:01:50,341 - DEBUG - Already followed user: Danyal-Rana. Skipping.
+2024-10-29 23:01:50,341 - DEBUG - Already followed user: FaezehRahimian. Skipping.
+2024-10-29 23:01:50,341 - INFO - Attempting to follow user: mr0ravi
+2024-10-29 23:01:50,551 - INFO - Successfully followed user: mr0ravi
+2024-10-29 23:01:50,552 - DEBUG - Appended user mr0ravi to followers.txt.
+2024-10-29 23:01:50,552 - INFO - Follower counter updated: 30
+2024-10-29 23:01:50,552 - INFO - Sleeping for 14.28 seconds before the next follow.
+2024-10-29 23:02:04,847 - DEBUG - Already followed user: zeon-neon. Skipping.
+2024-10-29 23:02:04,847 - DEBUG - Already followed user: annar9919. Skipping.
+2024-10-29 23:02:04,973 - INFO - Rate Limit - Remaining: 4982, Reset at: 2024-10-29 23:37:35
+2024-10-29 23:02:04,974 - INFO - Fetching followers from: https://api.github.com/users/trcjr/followers?per_page=100&page=2
+2024-10-29 23:02:05,112 - DEBUG - Number of followers fetched: 0
+2024-10-29 23:02:05,112 - INFO - No more followers to process. Exiting.
+2024-10-29 23:02:05,112 - INFO - Follower counter updated: 30
+2024-10-29 23:02:05,112 - INFO - 
+Following users from your follower list is done! Total followers fetched: 30, Total followers followed: 30
