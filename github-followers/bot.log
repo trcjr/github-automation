@@ -216,3 +216,53 @@ Following users from your follower list is done! Total followers fetched: 28, To
 2024-10-29 23:02:05,112 - INFO - Follower counter updated: 30
 2024-10-29 23:02:05,112 - INFO - 
 Following users from your follower list is done! Total followers fetched: 30, Total followers followed: 30
+2024-10-29 23:08:39,589 - INFO - Hi! I am GitHub Follower Bot.
+2024-10-29 23:08:39,589 - INFO - Letting you follow all your followers!
+2024-10-29 23:08:39,589 - INFO - Starting to fetch your follower lists...
+
+2024-10-29 23:08:39,589 - INFO - Loaded 30 already followed users.
+2024-10-29 23:08:39,589 - INFO - Processing all followers without resume.
+2024-10-29 23:08:39,589 - INFO - Starting from page: 1
+2024-10-29 23:08:39,590 - INFO - Current follower counter: 30
+2024-10-29 23:08:39,665 - INFO - Rate Limit - Remaining: 4981, Reset at: 2024-10-29 23:37:35
+2024-10-29 23:08:39,666 - INFO - Fetching followers from: https://api.github.com/users/trcjr/followers?per_page=100&page=1
+2024-10-29 23:08:39,746 - DEBUG - Number of followers fetched: 30
+2024-10-29 23:08:39,746 - INFO - Fetched 30 followers on page 1.
+2024-10-29 23:08:39,746 - INFO - Sleeping for 5 seconds before following users.
+2024-10-29 23:08:44,751 - DEBUG - Already followed user: gugod. Skipping.
+2024-10-29 23:08:44,751 - DEBUG - Already followed user: zdk. Skipping.
+2024-10-29 23:08:44,751 - DEBUG - Already followed user: c9s. Skipping.
+2024-10-29 23:08:44,751 - DEBUG - Already followed user: tempire. Skipping.
+2024-10-29 23:08:44,751 - DEBUG - Already followed user: jpkboca. Skipping.
+2024-10-29 23:08:44,751 - DEBUG - Already followed user: lfolsom. Skipping.
+2024-10-29 23:08:44,751 - DEBUG - Already followed user: delgreco. Skipping.
+2024-10-29 23:08:44,751 - DEBUG - Already followed user: winfinit. Skipping.
+2024-10-29 23:08:44,751 - DEBUG - Already followed user: skylamer. Skipping.
+2024-10-29 23:08:44,751 - DEBUG - Already followed user: keldenar. Skipping.
+2024-10-29 23:08:44,751 - DEBUG - Already followed user: JSansalone. Skipping.
+2024-10-29 23:08:44,751 - DEBUG - Already followed user: mishin. Skipping.
+2024-10-29 23:08:44,751 - DEBUG - Already followed user: KevinHock. Skipping.
+2024-10-29 23:08:44,751 - DEBUG - Already followed user: jbasalone. Skipping.
+2024-10-29 23:08:44,751 - DEBUG - Already followed user: gabrielpconceicao. Skipping.
+2024-10-29 23:08:44,751 - DEBUG - Already followed user: angusshire. Skipping.
+2024-10-29 23:08:44,751 - DEBUG - Already followed user: shahradelahi. Skipping.
+2024-10-29 23:08:44,751 - DEBUG - Already followed user: Rafaelmdcarneiro. Skipping.
+2024-10-29 23:08:44,751 - DEBUG - Already followed user: LisaSmithFL. Skipping.
+2024-10-29 23:08:44,752 - DEBUG - Already followed user: standardgalactic. Skipping.
+2024-10-29 23:08:44,752 - DEBUG - Already followed user: bitcoin-api. Skipping.
+2024-10-29 23:08:44,752 - DEBUG - Already followed user: rwp0. Skipping.
+2024-10-29 23:08:44,752 - DEBUG - Already followed user: OfficialCodeVoyage. Skipping.
+2024-10-29 23:08:44,752 - DEBUG - Already followed user: JohnMwendwa. Skipping.
+2024-10-29 23:08:44,752 - DEBUG - Already followed user: Bear-Frost. Skipping.
+2024-10-29 23:08:44,752 - DEBUG - Already followed user: Danyal-Rana. Skipping.
+2024-10-29 23:08:44,752 - DEBUG - Already followed user: FaezehRahimian. Skipping.
+2024-10-29 23:08:44,752 - DEBUG - Already followed user: mr0ravi. Skipping.
+2024-10-29 23:08:44,752 - DEBUG - Already followed user: zeon-neon. Skipping.
+2024-10-29 23:08:44,752 - DEBUG - Already followed user: annar9919. Skipping.
+2024-10-29 23:08:44,827 - INFO - Rate Limit - Remaining: 4980, Reset at: 2024-10-29 23:37:35
+2024-10-29 23:08:44,828 - INFO - Fetching followers from: https://api.github.com/users/trcjr/followers?per_page=100&page=2
+2024-10-29 23:08:44,902 - DEBUG - Number of followers fetched: 0
+2024-10-29 23:08:44,902 - INFO - No more followers to process. Exiting.
+2024-10-29 23:08:44,902 - INFO - Follower counter updated: 30
+2024-10-29 23:08:44,902 - INFO - 
+Following users from your follower list is done! Total followers fetched: 30, Total followers followed: 30
