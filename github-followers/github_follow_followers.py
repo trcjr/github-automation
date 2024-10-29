@@ -6,7 +6,7 @@ import time
 import random
 from dotenv import load_dotenv
 from requests.exceptions import RequestException, HTTPError
-from logging.handlers import FileHandler
+from logging import FileHandler
 
 # ===========================
 # Configuration Section
