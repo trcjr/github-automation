@@ -6,7 +6,7 @@ import time
 import random
 from dotenv import load_dotenv
 from requests.exceptions import RequestException, HTTPError
-from logging import FileHandler
+from logging.handlers import RotatingFileHandler
 
 # ===========================
 # Configuration Section
@@ -45,17 +45,17 @@ DELAY_ON_RATE_LIMIT = 300
 # ===========================
 
 logger = logging.getLogger('GitHubFollowerBot')
-logger.setLevel(logging.DEBUG)  # Set to DEBUG for detailed logs
+logger.setLevel(logging.ERROR)  # Set to DEBUG for detailed logs
 
 # Rotating File Handler
-file_handler = FileHandler('bot.log')
+file_handler = RotatingFileHandler('bot.log', maxBytes=5 * 1024 * 1024, backupCount=5)  # 5 MB per file, 5 backups
 file_formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
 file_handler.setFormatter(file_formatter)
 logger.addHandler(file_handler)
 
 # Console Handler
 console_handler = logging.StreamHandler()
-console_handler.setLevel(logging.INFO)  # Change to DEBUG for more verbosity in console
+console_handler.setLevel(logging.DEBUG)  # Change to DEBUG for more verbosity in console
 console_formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
 console_handler.setFormatter(console_formatter)
 logger.addHandler(console_handler)
