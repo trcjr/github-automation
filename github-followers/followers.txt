@@ -184,3 +184,7 @@ jeffersongoncalves
 hipolitorodrigues
 emmanuelvelmo
 LinuxJS
+zzzarius
+flaviopavim
+iamapuneet
+light-hat
