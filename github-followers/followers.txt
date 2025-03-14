@@ -225,3 +225,5 @@ CryptoComOfficial
 fortune-js
 Rabbit1026HG
 Capybara003
+maqibraja
+SpiritMark
