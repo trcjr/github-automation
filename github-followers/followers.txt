@@ -328,3 +328,5 @@ f2umfs
 tuxedo7
 dantelabs-bdm
 mahmutbalta
+alisher-kadraliev
+Linux-Scratcher
